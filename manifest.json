@@ -1,6 +1,7 @@
 {
   "domain": "vesync",
   "name": "VeSync",
+  "version": "0.0.0",
   "documentation": "https://www.home-assistant.io/integrations/vesync",
   "codeowners": ["@markperdue", "@webdjoe", "@thegardenmonkey"],
   "requirements": ["pyvesync==1.3.1"],
